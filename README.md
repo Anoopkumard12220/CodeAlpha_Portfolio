@@ -4,7 +4,7 @@ A premium dark-themed personal portfolio website built with vanilla HTML, CSS, a
 
 ## Live
 
-[anoopdubey.gt.tc](https://anoopdubey.gt.tc)
+[anoopdubey](https://anoop-portfolio-new.vercel.app/)
 
 ## Tech Stack
 
